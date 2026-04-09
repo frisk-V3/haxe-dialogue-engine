@@ -1,0 +1,4 @@
+-main Main
+-cp .
+-js Main.js
+-D analyzer-optimize
