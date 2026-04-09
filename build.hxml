@@ -1,4 +1,4 @@
 -main Main
--cp .
+-cp src
 -js Main.js
 -D analyzer-optimize
